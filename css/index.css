@@ -571,7 +571,7 @@ main .sobre-nosotros{
     }
 
     header .textos-header h3{
-        font-size: 60px;
+        font-size: 70px;
     }
 
     .contenedor-sobre-nosotros{
@@ -661,10 +661,8 @@ main .sobre-nosotros{
     }*/
 
     header .textos-header{
-        
-        height: 200px;
-
-    } 
+        height: 250px;
+    }
 
     header .textos-header h1{
         font-size: 30px;
@@ -675,7 +673,7 @@ main .sobre-nosotros{
     }
 
     header .textos-header h3{
-        font-size: 40px;
+        font-size: 60px;
     }
 
 
@@ -743,10 +741,6 @@ main .sobre-nosotros{
     
     }
 
-    header .textos-header{
-      
-        height: 330px;
-    }
    
 }
 
@@ -754,7 +748,7 @@ main .sobre-nosotros{
 
     header .textos-header{
         
-        height: 250px;
+        height: 230px;
 
     }
 
@@ -767,7 +761,7 @@ main .sobre-nosotros{
     }
 
     header .textos-header h3{
-        font-size: 30px;
+        font-size: 60px;
     }
 
 
